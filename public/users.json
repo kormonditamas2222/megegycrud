@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "nev": "Gipsz Jakab",
+            "osztály": "12.B"
+        },
+        {
+            "nev": "Jámbor János",
+            "osztály": "13.D"
+        },
+        {
+            "nev": "Minta Áron",
+            "osztály": "11.A"
+        },
+        {
+            "nev": "Fa Szilárd",
+            "osztály": "13.E"
+        }
+    ]
+}
