@@ -1,20 +1,30 @@
 {
-    "users": [
-        {
-            "nev": "Gipsz Jakab",
-            "osztaly": "12.B"
-        },
-        {
-            "nev": "Jámbor János",
-            "osztaly": "13.D"
-        },
-        {
-            "nev": "Minta Áron",
-            "osztaly": "11.A"
-        },
-        {
-            "nev": "Fa Szilárd",
-            "osztaly": "13.E"
-        }
-    ]
+  "users": [
+    {
+      "nev": "Gipsz Jakab",
+      "osztaly": "12.B",
+      "id": "15ELXqDXXJ8"
+    },
+    {
+      "nev": "Jámbor János",
+      "osztaly": "13.D",
+      "id": "N8eZYFhZA98"
+    },
+    {
+      "nev": "Minta Áron",
+      "osztaly": "11.A",
+      "id": "ySTOG5iuEHU"
+    },
+    {
+      "nev": "Fa Szilárd",
+      "osztaly": "13.E",
+      "id": "yGY6gUlhsJw"
+    },
+    {
+      "nev": "Dózsa György",
+      "osztaly": "13.E",
+      "id": "SPgiXDeAqwk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
