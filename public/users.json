@@ -2,19 +2,19 @@
     "users": [
         {
             "nev": "Gipsz Jakab",
-            "osztály": "12.B"
+            "osztaly": "12.B"
         },
         {
             "nev": "Jámbor János",
-            "osztály": "13.D"
+            "osztaly": "13.D"
         },
         {
             "nev": "Minta Áron",
-            "osztály": "11.A"
+            "osztaly": "11.A"
         },
         {
             "nev": "Fa Szilárd",
-            "osztály": "13.E"
+            "osztaly": "13.E"
         }
     ]
 }
